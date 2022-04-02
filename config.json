@@ -1,0 +1,9 @@
+{
+	"ip":"shiroshiki.aternos.me:63566",
+	"port": "63566",
+	"name": "x-x",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register pass122 ",
+	"login-cmd":"/login pass122 "
+}
